@@ -1,0 +1,12 @@
+/Users/rein/Documents/Git/Oefenen/CodingDojo/src/CodingDojo.FizzBuzz.Kata/obj/Debug/net7.0/CodingDojo.FizzBuzz.Kata.csproj.AssemblyReference.cache
+/Users/rein/Documents/Git/Oefenen/CodingDojo/src/CodingDojo.FizzBuzz.Kata/obj/Debug/net7.0/CodingDojo.FizzBuzz.Kata.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rein/Documents/Git/Oefenen/CodingDojo/src/CodingDojo.FizzBuzz.Kata/obj/Debug/net7.0/CodingDojo.FizzBuzz.Kata.AssemblyInfoInputs.cache
+/Users/rein/Documents/Git/Oefenen/CodingDojo/src/CodingDojo.FizzBuzz.Kata/obj/Debug/net7.0/CodingDojo.FizzBuzz.Kata.AssemblyInfo.cs
+/Users/rein/Documents/Git/Oefenen/CodingDojo/src/CodingDojo.FizzBuzz.Kata/obj/Debug/net7.0/CodingDojo.FizzBuzz.Kata.csproj.CoreCompileInputs.cache
+/Users/rein/Documents/Git/Oefenen/CodingDojo/src/CodingDojo.FizzBuzz.Kata/bin/Debug/net7.0/CodingDojo.FizzBuzz.Kata.deps.json
+/Users/rein/Documents/Git/Oefenen/CodingDojo/src/CodingDojo.FizzBuzz.Kata/bin/Debug/net7.0/CodingDojo.FizzBuzz.Kata.dll
+/Users/rein/Documents/Git/Oefenen/CodingDojo/src/CodingDojo.FizzBuzz.Kata/bin/Debug/net7.0/CodingDojo.FizzBuzz.Kata.pdb
+/Users/rein/Documents/Git/Oefenen/CodingDojo/src/CodingDojo.FizzBuzz.Kata/obj/Debug/net7.0/CodingDojo.FizzBuzz.Kata.dll
+/Users/rein/Documents/Git/Oefenen/CodingDojo/src/CodingDojo.FizzBuzz.Kata/obj/Debug/net7.0/refint/CodingDojo.FizzBuzz.Kata.dll
+/Users/rein/Documents/Git/Oefenen/CodingDojo/src/CodingDojo.FizzBuzz.Kata/obj/Debug/net7.0/CodingDojo.FizzBuzz.Kata.pdb
+/Users/rein/Documents/Git/Oefenen/CodingDojo/src/CodingDojo.FizzBuzz.Kata/obj/Debug/net7.0/ref/CodingDojo.FizzBuzz.Kata.dll
