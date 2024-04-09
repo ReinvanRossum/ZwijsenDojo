@@ -1,4 +1,6 @@
-﻿namespace BankOCRKata;
+﻿using System.Runtime.InteropServices.JavaScript;
+
+namespace BankOCRKata;
 
 public class BankOCR
 {
@@ -41,5 +43,15 @@ public class BankOCR
         }
 
         return numList;
+    }
+
+    public bool IsValidAccountNumber(string accountNumber)
+    {
+        int checksum = 0;
+        for (int i = 0; i < 9; i++)
+        {
+            checksum += Int32.Parse(accountNumber.Substring(i,1)) * (9-i);
+        }
+        return checksum % 11 == 0;
     }
 }

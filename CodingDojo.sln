@@ -18,6 +18,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Greed", "Greed\Greed.csproj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GreedTests", "GreedTests\GreedTests.csproj", "{1E14442D-4724-48A3-97C4-CE4B9B58732C}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "OCR", "OCR", "{F5CFABBD-2ED1-4CC0-A71C-D6DBD14E7322}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BankOCRKata", "OCR\BankOCRKata\BankOCRKata.csproj", "{6A5D582C-4358-4088-8049-852F3E44FC53}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BankOCRTests", "OCR\BankOCRTests\BankOCRTests.csproj", "{F44A84CC-CD6E-4DBE-B3E7-B1AC8B7873E9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -56,6 +62,14 @@ Global
 		{1E14442D-4724-48A3-97C4-CE4B9B58732C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1E14442D-4724-48A3-97C4-CE4B9B58732C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1E14442D-4724-48A3-97C4-CE4B9B58732C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A5D582C-4358-4088-8049-852F3E44FC53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A5D582C-4358-4088-8049-852F3E44FC53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A5D582C-4358-4088-8049-852F3E44FC53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A5D582C-4358-4088-8049-852F3E44FC53}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F44A84CC-CD6E-4DBE-B3E7-B1AC8B7873E9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F44A84CC-CD6E-4DBE-B3E7-B1AC8B7873E9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F44A84CC-CD6E-4DBE-B3E7-B1AC8B7873E9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F44A84CC-CD6E-4DBE-B3E7-B1AC8B7873E9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{3FB29273-405B-4645-B78B-5550E2D24F72} = {6912C4C5-FADD-4627-AA55-A3FFCC36A889}

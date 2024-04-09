@@ -15,8 +15,15 @@
     </ItemGroup>
 
     <ItemGroup>
-      <Folder Include="GildedRoseTests\obj\Debug\net7.0\refint\" />
-      <Folder Include="GildedRoseTests\obj\Debug\net7.0\ref\" />
+      <Compile Remove="GildedRoseTests\obj\**" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <EmbeddedResource Remove="GildedRoseTests\obj\**" />
+    </ItemGroup>
+
+    <ItemGroup>
+      <None Remove="GildedRoseTests\obj\**" />
     </ItemGroup>
 
 </Project>
